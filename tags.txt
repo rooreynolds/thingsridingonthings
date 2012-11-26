@@ -54,3 +54,5 @@ goat:tightrope
 monkey:goat
 monkey:goat
 rabbit:swan
+frog:frog
+worm:worm
