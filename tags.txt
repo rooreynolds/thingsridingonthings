@@ -56,3 +56,5 @@ monkey:goat
 rabbit:swan
 frog:frog
 worm:worm
+monkey:goat
+cat:dog
