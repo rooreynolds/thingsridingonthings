@@ -58,3 +58,6 @@ frog:frog
 worm:worm
 monkey:goat
 cat:dog
+dog:rocking-horse
+monkey:bicycle
+darth-vader:chipmunk
