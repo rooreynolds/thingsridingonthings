@@ -1,4 +1,3 @@
-thingsridingonthings
-====================
+#thingsridingonthings
 
-Things to make updating thingsridingonthings.tumblr.com easier.
+Build script to make updating [thingsridingonthings.tumblr.com](http://thingsridingonthings.tumblr.com) easier.
