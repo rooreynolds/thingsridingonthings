@@ -4,4 +4,5 @@ if (ruby matrix.rb >> matrix.html) then
   open matrix.html
   wc -l tags.txt
   cat tags.txt | sort | uniq -c | sort -r | head
+  cat matrix.html | pbcopy 
 fi
